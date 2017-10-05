@@ -1,3 +1,2 @@
 # Practial-Machine-Learning
-For the final project of Practial Machine Learning Class.
-Work smart and enjoy!
+The .html file seems ugly in GitHub, but looks nice in Google Chrome.
